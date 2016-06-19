@@ -1,0 +1,1144 @@
+[29/May/2016 04:57:45] "GET /vendas/admin/vendas/produtos/ HTTP/1.1" 200 45940
+[29/May/2016 04:57:45] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[29/May/2016 04:57:45] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[29/May/2016 04:57:45] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[29/May/2016 04:57:45] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[29/May/2016 04:57:45] "GET /vendas/admin/jsi18n/ HTTP/1.1" 200 6605
+[29/May/2016 04:57:45] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[29/May/2016 04:57:45] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[29/May/2016 04:57:45] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[29/May/2016 04:57:45] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[29/May/2016 04:57:46] "GET /static/admin/js/jquery.js HTTP/1.1" 304 0
+[29/May/2016 04:57:46] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[29/May/2016 04:57:46] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[29/May/2016 04:57:46] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 304 0
+[29/May/2016 04:59:12] "GET /vendas/admin/ HTTP/1.1" 302 0
+[29/May/2016 04:59:13] "GET /vendas/admin/login/?next=/vendas/admin/ HTTP/1.1" 200 4358
+[29/May/2016 04:59:13] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 122540
+[29/May/2016 04:59:13] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 36816
+[29/May/2016 04:59:13] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 200 7199
+[29/May/2016 04:59:13] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 200 92629
+[29/May/2016 04:59:13] "GET /static/admin/css/overrides.css HTTP/1.1" 200 5463
+[29/May/2016 04:59:21] "POST /vendas/admin/login/?next=/vendas/admin/ HTTP/1.1" 302 0
+[29/May/2016 04:59:21] "GET /vendas/admin/ HTTP/1.1" 200 19199
+[29/May/2016 04:59:21] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 434
+[29/May/2016 04:59:22] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 200 23424
+[29/May/2016 04:59:25] "GET /vendas/admin/vendas/clientes/ HTTP/1.1" 200 15000
+[29/May/2016 04:59:26] "GET /static/admin/css/changelists.css HTTP/1.1" 200 235
+[29/May/2016 04:59:26] "GET /vendas/admin/jsi18n/ HTTP/1.1" 200 6605
+[29/May/2016 04:59:26] "GET /static/admin/js/core.js HTTP/1.1" 200 7705
+[29/May/2016 04:59:26] "GET /static/admin/js/jquery.js HTTP/1.1" 200 284184
+[29/May/2016 04:59:26] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 4680
+[29/May/2016 04:59:26] "GET /static/admin/js/actions.js HTTP/1.1" 200 4910
+[29/May/2016 04:59:26] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 326
+[29/May/2016 04:59:35] "GET /vendas/admin/vendas/ HTTP/1.1" 200 19154
+[29/May/2016 04:59:38] "GET /vendas/admin/vendas/movimentacoesfinaneiras/ HTTP/1.1" 200 18380
+[29/May/2016 04:59:38] "GET /vendas/admin/jsi18n/ HTTP/1.1" 200 6605
+[29/May/2016 04:59:59] "GET /vendas/admin/vendas/movimentacoesfinaneiras/93/ HTTP/1.1" 200 19751
+[29/May/2016 05:00:00] "GET /static/admin/css/forms.css HTTP/1.1" 200 6283
+[29/May/2016 05:00:00] "GET /vendas/admin/jsi18n/ HTTP/1.1" 200 6605
+[29/May/2016 05:00:00] "GET /static/admin/js/related-widget-wrapper.js HTTP/1.1" 200 857
+[29/May/2016 05:00:00] "GET /static/admin/js/calendar.js HTTP/1.1" 200 5969
+[29/May/2016 05:00:00] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 17167
+[29/May/2016 05:00:00] "GET /static/admin/css/widgets.css HTTP/1.1" 200 10590
+[29/May/2016 05:00:00] "GET /static/admin/img/icon_calendar.gif HTTP/1.1" 200 192
+Error: That port is already in use.
+/usr/lib/python2.7/importlib/__init__.py:37: RemovedInDjango110Warning: django.core.context_processors is deprecated in favor of django.template.context_processors.
+  __import__(name)
+
+/usr/local/lib/python2.7/dist-packages/django/template/loader.py:97: RemovedInDjango110Warning: render() must be called with a dict, not a RequestContext.
+  return template.render(context, request)
+
+[14/Jun/2016 15:05:42] "GET /admin/ HTTP/1.1" 200 20542
+[14/Jun/2016 15:05:42] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[14/Jun/2016 15:05:42] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[14/Jun/2016 15:05:42] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[14/Jun/2016 15:05:42] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[14/Jun/2016 15:05:42] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[14/Jun/2016 15:05:42] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[14/Jun/2016 15:05:43] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[14/Jun/2016 15:06:20] "GET /admin/ HTTP/1.1" 200 20542
+[14/Jun/2016 15:06:20] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[14/Jun/2016 15:06:20] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[14/Jun/2016 15:06:20] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[14/Jun/2016 15:06:20] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[14/Jun/2016 15:06:20] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[14/Jun/2016 15:06:20] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[14/Jun/2016 15:06:20] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[14/Jun/2016 15:06:20] "GET /admin/ HTTP/1.1" 200 20542
+[14/Jun/2016 15:06:20] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[14/Jun/2016 15:06:20] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[14/Jun/2016 15:06:20] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[14/Jun/2016 15:06:20] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[14/Jun/2016 15:06:20] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[14/Jun/2016 15:06:20] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[14/Jun/2016 15:06:20] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[14/Jun/2016 15:06:21] "GET /admin/ HTTP/1.1" 200 20542
+[14/Jun/2016 15:06:21] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[14/Jun/2016 15:06:21] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[14/Jun/2016 15:06:21] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[14/Jun/2016 15:06:21] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[14/Jun/2016 15:06:21] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[14/Jun/2016 15:06:21] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[14/Jun/2016 15:06:21] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+Not Found: /dev
+[14/Jun/2016 15:06:54] "OPTIONS /dev HTTP/1.1" 404 1915
+[14/Jun/2016 15:27:21] "GET /admin/financeiro/contacorrente/ HTTP/1.1" 200 10566
+[14/Jun/2016 15:27:21] "GET /static/admin/css/changelists.css HTTP/1.1" 200 235
+[14/Jun/2016 15:27:21] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+[14/Jun/2016 15:27:21] "GET /static/admin/js/core.js HTTP/1.1" 200 8171
+[14/Jun/2016 15:27:21] "GET /static/admin/js/actions.js HTTP/1.1" 200 6259
+[14/Jun/2016 15:27:21] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6055
+[14/Jun/2016 15:27:21] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7693
+[14/Jun/2016 15:27:21] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[14/Jun/2016 15:27:21] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1538
+[14/Jun/2016 15:27:21] "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 200 62474
+[14/Jun/2016 15:27:21] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 247597
+[14/Jun/2016 15:27:31] "POST /admin/financeiro/contacorrente/ HTTP/1.1" 200 8145
+[14/Jun/2016 15:27:33] "POST /admin/financeiro/contacorrente/ HTTP/1.1" 302 0
+[14/Jun/2016 15:27:34] "GET /admin/financeiro/contacorrente/ HTTP/1.1" 200 11083
+[14/Jun/2016 15:27:34] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[14/Jun/2016 15:27:44] "GET /admin/financeiro/ HTTP/1.1" 200 10084
+[14/Jun/2016 15:27:46] "GET /admin/ HTTP/1.1" 200 21060
+[14/Jun/2016 15:33:27] "GET /admin/financeiro/contacorrente/ HTTP/1.1" 200 10818
+[14/Jun/2016 15:33:27] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[14/Jun/2016 15:33:36] "GET /admin/financeiro/contacorrente/add/ HTTP/1.1" 200 12689
+[14/Jun/2016 15:33:37] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[14/Jun/2016 15:33:37] "GET /static/admin/css/forms.css HTTP/1.1" 200 7750
+[14/Jun/2016 15:33:37] "GET /static/admin/css/widgets.css HTTP/1.1" 200 10419
+[14/Jun/2016 15:33:45] "GET /admin/financeiro/contacorrente/ HTTP/1.1" 200 10818
+[14/Jun/2016 15:33:47] "GET /admin/ HTTP/1.1" 200 21060
+[14/Jun/2016 15:34:26] "GET /admin/vendas/pedidos/ HTTP/1.1" 200 11774
+[14/Jun/2016 15:34:26] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[14/Jun/2016 15:34:33] "GET /admin/ HTTP/1.1" 200 21060
+[14/Jun/2016 15:34:35] "GET /admin/vendas/produtos/ HTTP/1.1" 200 42808
+[14/Jun/2016 15:34:35] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[14/Jun/2016 15:34:39] "GET /admin/vendas/produtos/add/ HTTP/1.1" 200 15734
+[14/Jun/2016 15:34:39] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 18585
+[14/Jun/2016 15:34:39] "GET /static/admin/js/calendar.js HTTP/1.1" 200 6875
+[14/Jun/2016 15:34:39] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[14/Jun/2016 15:34:39] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+[14/Jun/2016 15:34:56] "GET /admin/vendas/produtos/ HTTP/1.1" 200 42808
+[14/Jun/2016 15:35:04] "GET /admin/ HTTP/1.1" 200 21060
+[14/Jun/2016 15:35:07] "GET /admin/financeiro/contacorrente/ HTTP/1.1" 200 10818
+[14/Jun/2016 15:35:07] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[14/Jun/2016 15:35:13] "GET /admin/ HTTP/1.1" 200 21060
+[14/Jun/2016 15:35:15] "GET /admin/vendas/pedidos/ HTTP/1.1" 200 11774
+[14/Jun/2016 15:35:15] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[14/Jun/2016 15:35:19] "GET /admin/vendas/pedidos/add/ HTTP/1.1" 200 125000
+[14/Jun/2016 15:35:19] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[14/Jun/2016 15:35:19] "GET /static/admin/js/inlines.js HTTP/1.1" 200 12907
+[14/Jun/2016 15:35:22] "GET /admin/vendas/pedidos/ HTTP/1.1" 200 11774
+[14/Jun/2016 15:35:23] "GET /admin/ HTTP/1.1" 200 21060
+[14/Jun/2016 15:35:28] "GET /admin/vendas/importacaoprodutos/ HTTP/1.1" 200 10848
+[14/Jun/2016 15:35:28] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[14/Jun/2016 15:35:29] "GET /admin/vendas/importacaoprodutos/26/change/ HTTP/1.1" 200 11584
+[14/Jun/2016 15:35:29] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[14/Jun/2016 15:35:35] "GET /admin/vendas/importacaoprodutos/26/delete/ HTTP/1.1" 200 8487
+[14/Jun/2016 15:35:38] "POST /admin/vendas/importacaoprodutos/26/delete/ HTTP/1.1" 302 0
+[14/Jun/2016 15:35:38] "GET /admin/vendas/importacaoprodutos/ HTTP/1.1" 200 10392
+[14/Jun/2016 15:35:38] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+Not Found: /admin/vendas/importacaoprodutos/26/delete/
+[14/Jun/2016 15:35:41] "GET /admin/vendas/importacaoprodutos/26/delete/ HTTP/1.1" 404 1840
+[14/Jun/2016 15:35:43] "GET /admin/vendas/importacaoprodutos/ HTTP/1.1" 200 10087
+[14/Jun/2016 15:35:45] "GET /admin/vendas/ HTTP/1.1" 200 16146
+[14/Jun/2016 15:35:50] "GET /admin/vendas/clientes/ HTTP/1.1" 200 12407
+[14/Jun/2016 15:35:50] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[14/Jun/2016 15:36:03] "GET /admin/vendas/ HTTP/1.1" 200 16146
+[14/Jun/2016 15:36:16] "GET /admin/ HTTP/1.1" 200 21599
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 14, 2016 - 15:04:42
+Django version 1.9c1, using settings 'joias.settings'
+Starting development server at http://localhost:8000/
+Quit the server with CONTROL-C.
+Traceback (most recent call last):
+  File "./manage.py", line 10, in <module>
+    execute_from_command_line(sys.argv)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 350, in execute_from_command_line
+    utility.execute()
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 342, in execute
+    self.fetch_command(subcommand).run_from_argv(self.argv)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 176, in fetch_command
+    commands = get_commands()
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/lru_cache.py", line 100, in wrapper
+    result = user_function(*args, **kwds)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 71, in get_commands
+    for app_config in reversed(list(apps.get_app_configs())):
+  File "/usr/local/lib/python2.7/dist-packages/django/apps/registry.py", line 137, in get_app_configs
+    self.check_apps_ready()
+  File "/usr/local/lib/python2.7/dist-packages/django/apps/registry.py", line 124, in check_apps_ready
+    raise AppRegistryNotReady("Apps aren't loaded yet.")
+django.core.exceptions.AppRegistryNotReady: Apps aren't loaded yet.
+Traceback (most recent call last):
+  File "./manage.py", line 10, in <module>
+    execute_from_command_line(sys.argv)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 350, in execute_from_command_line
+    utility.execute()
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 342, in execute
+    self.fetch_command(subcommand).run_from_argv(self.argv)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 176, in fetch_command
+    commands = get_commands()
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/lru_cache.py", line 100, in wrapper
+    result = user_function(*args, **kwds)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 71, in get_commands
+    for app_config in reversed(list(apps.get_app_configs())):
+  File "/usr/local/lib/python2.7/dist-packages/django/apps/registry.py", line 137, in get_app_configs
+    self.check_apps_ready()
+  File "/usr/local/lib/python2.7/dist-packages/django/apps/registry.py", line 124, in check_apps_ready
+    raise AppRegistryNotReady("Apps aren't loaded yet.")
+django.core.exceptions.AppRegistryNotReady: Apps aren't loaded yet.
+/usr/lib/python2.7/importlib/__init__.py:37: RemovedInDjango110Warning: django.core.context_processors is deprecated in favor of django.template.context_processors.
+  __import__(name)
+
+/usr/local/lib/python2.7/dist-packages/django/template/loader.py:97: RemovedInDjango110Warning: render() must be called with a dict, not a RequestContext.
+  return template.render(context, request)
+
+[14/Jun/2016 16:03:24] "GET /admin/ HTTP/1.1" 200 21599
+Traceback (most recent call last):
+  File "./manage.py", line 10, in <module>
+    execute_from_command_line(sys.argv)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 350, in execute_from_command_line
+    utility.execute()
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 342, in execute
+    self.fetch_command(subcommand).run_from_argv(self.argv)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 176, in fetch_command
+    commands = get_commands()
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/lru_cache.py", line 100, in wrapper
+    result = user_function(*args, **kwds)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 71, in get_commands
+    for app_config in reversed(list(apps.get_app_configs())):
+  File "/usr/local/lib/python2.7/dist-packages/django/apps/registry.py", line 137, in get_app_configs
+    self.check_apps_ready()
+  File "/usr/local/lib/python2.7/dist-packages/django/apps/registry.py", line 124, in check_apps_ready
+    raise AppRegistryNotReady("Apps aren't loaded yet.")
+django.core.exceptions.AppRegistryNotReady: Apps aren't loaded yet.
+Traceback (most recent call last):
+  File "./manage.py", line 10, in <module>
+    execute_from_command_line(sys.argv)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 350, in execute_from_command_line
+    utility.execute()
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 342, in execute
+    self.fetch_command(subcommand).run_from_argv(self.argv)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 176, in fetch_command
+    commands = get_commands()
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/lru_cache.py", line 100, in wrapper
+    result = user_function(*args, **kwds)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 71, in get_commands
+    for app_config in reversed(list(apps.get_app_configs())):
+  File "/usr/local/lib/python2.7/dist-packages/django/apps/registry.py", line 137, in get_app_configs
+    self.check_apps_ready()
+  File "/usr/local/lib/python2.7/dist-packages/django/apps/registry.py", line 124, in check_apps_ready
+    raise AppRegistryNotReady("Apps aren't loaded yet.")
+django.core.exceptions.AppRegistryNotReady: Apps aren't loaded yet.
+Error: That port is already in use.
+Not Found: /admin
+[15/Jun/2016 15:42:04] "GET /admin HTTP/1.1" 301 0
+/usr/lib/python2.7/importlib/__init__.py:37: RemovedInDjango110Warning: django.core.context_processors is deprecated in favor of django.template.context_processors.
+  __import__(name)
+
+/usr/local/lib/python2.7/dist-packages/django/template/loader.py:97: RemovedInDjango110Warning: render() must be called with a dict, not a RequestContext.
+  return template.render(context, request)
+
+[15/Jun/2016 15:42:05] "GET /admin/ HTTP/1.1" 200 21599
+[15/Jun/2016 15:42:05] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[15/Jun/2016 15:42:05] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[15/Jun/2016 15:42:05] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[15/Jun/2016 15:42:05] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[15/Jun/2016 15:42:05] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[15/Jun/2016 15:42:05] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[15/Jun/2016 15:42:05] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[15/Jun/2016 15:42:08] "GET /favicon.ico HTTP/1.1" 404 1935
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 15, 2016 - 15:41:06
+Django version 1.9c1, using settings 'joias.settings'
+Starting development server at http://localhost:8000/
+Quit the server with CONTROL-C.
+Traceback (most recent call last):
+  File "./manage.py", line 10, in <module>
+    execute_from_command_line(sys.argv)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 350, in execute_from_command_line
+    utility.execute()
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 342, in execute
+    self.fetch_command(subcommand).run_from_argv(self.argv)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 176, in fetch_command
+    commands = get_commands()
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/lru_cache.py", line 100, in wrapper
+    result = user_function(*args, **kwds)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 71, in get_commands
+    for app_config in reversed(list(apps.get_app_configs())):
+  File "/usr/local/lib/python2.7/dist-packages/django/apps/registry.py", line 137, in get_app_configs
+    self.check_apps_ready()
+  File "/usr/local/lib/python2.7/dist-packages/django/apps/registry.py", line 124, in check_apps_ready
+    raise AppRegistryNotReady("Apps aren't loaded yet.")
+django.core.exceptions.AppRegistryNotReady: Apps aren't loaded yet.
+Traceback (most recent call last):
+  File "./manage.py", line 10, in <module>
+    execute_from_command_line(sys.argv)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 350, in execute_from_command_line
+    utility.execute()
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 342, in execute
+    self.fetch_command(subcommand).run_from_argv(self.argv)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 176, in fetch_command
+    commands = get_commands()
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/lru_cache.py", line 100, in wrapper
+    result = user_function(*args, **kwds)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 71, in get_commands
+    for app_config in reversed(list(apps.get_app_configs())):
+  File "/usr/local/lib/python2.7/dist-packages/django/apps/registry.py", line 137, in get_app_configs
+    self.check_apps_ready()
+  File "/usr/local/lib/python2.7/dist-packages/django/apps/registry.py", line 124, in check_apps_ready
+    raise AppRegistryNotReady("Apps aren't loaded yet.")
+django.core.exceptions.AppRegistryNotReady: Apps aren't loaded yet.
+Traceback (most recent call last):
+  File "./manage.py", line 10, in <module>
+    execute_from_command_line(sys.argv)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 350, in execute_from_command_line
+    utility.execute()
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 342, in execute
+    self.fetch_command(subcommand).run_from_argv(self.argv)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 176, in fetch_command
+    commands = get_commands()
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/lru_cache.py", line 100, in wrapper
+    result = user_function(*args, **kwds)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 71, in get_commands
+    for app_config in reversed(list(apps.get_app_configs())):
+  File "/usr/local/lib/python2.7/dist-packages/django/apps/registry.py", line 137, in get_app_configs
+    self.check_apps_ready()
+  File "/usr/local/lib/python2.7/dist-packages/django/apps/registry.py", line 124, in check_apps_ready
+    raise AppRegistryNotReady("Apps aren't loaded yet.")
+django.core.exceptions.AppRegistryNotReady: Apps aren't loaded yet.
+/usr/lib/python2.7/importlib/__init__.py:37: RemovedInDjango110Warning: django.core.context_processors is deprecated in favor of django.template.context_processors.
+  __import__(name)
+
+/usr/local/lib/python2.7/dist-packages/django/template/loader.py:97: RemovedInDjango110Warning: render() must be called with a dict, not a RequestContext.
+  return template.render(context, request)
+
+[15/Jun/2016 15:56:29] "GET /admin/ HTTP/1.1" 200 21599
+[15/Jun/2016 15:56:29] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[15/Jun/2016 15:56:29] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[15/Jun/2016 15:56:29] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[15/Jun/2016 15:56:29] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[15/Jun/2016 15:56:29] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[15/Jun/2016 15:56:29] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[15/Jun/2016 15:56:29] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 15, 2016 - 15:56:26
+Django version 1.9c1, using settings 'joias.settings'
+Starting development server at http://localhost:8000/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function wrapper at 0xa2df79c>
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/commands/runserver.py", line 109, in inner_run
+    autoreload.raise_last_exception()
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/autoreload.py", line 249, in raise_last_exception
+    six.reraise(*_exception)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/__init__.py", line 18, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/usr/local/lib/python2.7/dist-packages/django/apps/registry.py", line 115, in populate
+    app_config.ready()
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/admin/apps.py", line 22, in ready
+    self.module.autodiscover()
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/admin/__init__.py", line 26, in autodiscover
+    autodiscover_modules('admin', register_to=site)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/module_loading.py", line 50, in autodiscover_modules
+    import_module('%s.%s' % (app_config.name, module_to_search))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/rcosta/projetos/vendas_django/cadastro/admin.py", line 2, in <module>
+    from .models import Fornecedores, ContaCorrente
+ImportError: cannot import name ContaCorrente
+Unhandled exception in thread started by <function wrapper at 0xa8a26bc>
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/commands/runserver.py", line 109, in inner_run
+    autoreload.raise_last_exception()
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/autoreload.py", line 249, in raise_last_exception
+    six.reraise(*_exception)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/autoreload.py", line 226, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/__init__.py", line 18, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/usr/local/lib/python2.7/dist-packages/django/apps/registry.py", line 115, in populate
+    app_config.ready()
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/admin/apps.py", line 22, in ready
+    self.module.autodiscover()
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/admin/__init__.py", line 26, in autodiscover
+    autodiscover_modules('admin', register_to=site)
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/module_loading.py", line 50, in autodiscover_modules
+    import_module('%s.%s' % (app_config.name, module_to_search))
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+  File "/home/rcosta/projetos/vendas_django/cadastro/admin.py", line 2, in <module>
+    from .models import Fornecedores, ContaCorrente
+ImportError: cannot import name ContaCorrente
+Error: That port is already in use.
+/usr/lib/python2.7/importlib/__init__.py:37: RemovedInDjango110Warning: django.core.context_processors is deprecated in favor of django.template.context_processors.
+  __import__(name)
+
+/usr/local/lib/python2.7/dist-packages/django/template/loader.py:97: RemovedInDjango110Warning: render() must be called with a dict, not a RequestContext.
+  return template.render(context, request)
+
+[15/Jun/2016 15:59:22] "GET /admin/ HTTP/1.1" 200 21599
+[15/Jun/2016 15:59:22] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[15/Jun/2016 15:59:22] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[15/Jun/2016 15:59:22] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[15/Jun/2016 15:59:22] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[15/Jun/2016 15:59:22] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[15/Jun/2016 15:59:22] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[15/Jun/2016 15:59:22] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[15/Jun/2016 16:06:39] "GET /admin/ HTTP/1.1" 200 21599
+[15/Jun/2016 16:06:39] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[15/Jun/2016 16:06:39] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[15/Jun/2016 16:06:39] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[15/Jun/2016 16:06:39] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[15/Jun/2016 16:06:39] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[15/Jun/2016 16:06:39] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[15/Jun/2016 16:06:39] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[15/Jun/2016 16:06:40] "GET /admin/ HTTP/1.1" 200 21599
+[15/Jun/2016 16:06:40] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[15/Jun/2016 16:06:40] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[15/Jun/2016 16:06:40] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[15/Jun/2016 16:06:40] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[15/Jun/2016 16:06:40] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[15/Jun/2016 16:06:40] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[15/Jun/2016 16:06:40] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 15, 2016 - 15:59:19
+Django version 1.9c1, using settings 'joias.settings'
+Starting development server at http://localhost:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 15, 2016 - 16:07:24
+Django version 1.9c1, using settings 'joias.settings'
+Starting development server at http://localhost:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 15, 2016 - 16:08:26
+Django version 1.9c1, using settings 'joias.settings'
+Starting development server at http://localhost:8000/
+Quit the server with CONTROL-C.
+/usr/lib/python2.7/importlib/__init__.py:37: RemovedInDjango110Warning: django.core.context_processors is deprecated in favor of django.template.context_processors.
+  __import__(name)
+
+/usr/local/lib/python2.7/dist-packages/django/template/loader.py:97: RemovedInDjango110Warning: render() must be called with a dict, not a RequestContext.
+  return template.render(context, request)
+
+[15/Jun/2016 16:09:56] "GET /admin/ HTTP/1.1" 200 24329
+[15/Jun/2016 16:09:56] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[15/Jun/2016 16:09:56] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[15/Jun/2016 16:09:56] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[15/Jun/2016 16:09:56] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[15/Jun/2016 16:09:56] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[15/Jun/2016 16:09:56] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[15/Jun/2016 16:09:56] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[15/Jun/2016 16:10:00] "GET /admin/cadastro/contacorrente/add/ HTTP/1.1" 200 13174
+[15/Jun/2016 16:10:01] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[15/Jun/2016 16:10:07] "GET /admin/cadastro/fornecedores/add/?_to_field=id&_popup=1 HTTP/1.1" 200 7332
+[15/Jun/2016 16:10:07] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[15/Jun/2016 16:10:18] "POST /admin/cadastro/fornecedores/add/?_to_field=id&_popup=1 HTTP/1.1" 200 226
+[15/Jun/2016 16:10:47] "GET /admin/ HTTP/1.1" 200 24872
+Not Found: /favicon.ico
+[15/Jun/2016 16:10:47] "GET /favicon.ico HTTP/1.1" 404 1935
+[15/Jun/2016 16:10:52] "GET /admin/cadastro/fornecedores/ HTTP/1.1" 200 11858
+[15/Jun/2016 16:10:52] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[15/Jun/2016 16:10:55] "GET /admin/cadastro/ HTTP/1.1" 200 11132
+[15/Jun/2016 16:10:57] "GET /admin/cadastro/contacorrente/ HTTP/1.1" 200 10621
+[15/Jun/2016 16:10:57] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[15/Jun/2016 16:10:59] "GET /admin/cadastro/contacorrente/add/ HTTP/1.1" 200 13748
+[15/Jun/2016 16:10:59] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[15/Jun/2016 16:11:08] "POST /admin/cadastro/contacorrente/add/ HTTP/1.1" 302 0
+[15/Jun/2016 16:11:08] "GET /admin/cadastro/contacorrente/1/change/ HTTP/1.1" 200 14902
+[15/Jun/2016 16:11:08] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[15/Jun/2016 16:11:09] "POST /admin/cadastro/contacorrente/1/change/ HTTP/1.1" 302 0
+[15/Jun/2016 16:11:09] "GET /admin/cadastro/contacorrente/ HTTP/1.1" 200 13276
+[15/Jun/2016 16:11:10] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[15/Jun/2016 16:11:11] "GET /admin/cadastro/ HTTP/1.1" 200 12237
+[15/Jun/2016 16:11:12] "GET /admin/ HTTP/1.1" 200 25977
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 15, 2016 - 16:08:30
+Django version 1.9c1, using settings 'joias.settings'
+Starting development server at http://localhost:8000/
+Quit the server with CONTROL-C.
+/usr/lib/python2.7/importlib/__init__.py:37: RemovedInDjango110Warning: django.core.context_processors is deprecated in favor of django.template.context_processors.
+  __import__(name)
+
+/usr/local/lib/python2.7/dist-packages/django/template/loader.py:97: RemovedInDjango110Warning: render() must be called with a dict, not a RequestContext.
+  return template.render(context, request)
+
+[15/Jun/2016 16:12:42] "GET /admin/ HTTP/1.1" 200 25981
+[15/Jun/2016 16:12:48] "GET /admin/cadastro/ HTTP/1.1" 200 12237
+[15/Jun/2016 16:12:54] "GET /admin/ HTTP/1.1" 200 25981
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 15, 2016 - 16:12:37
+Django version 1.9c1, using settings 'joias.settings'
+Starting development server at http://localhost:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 15, 2016 - 16:13:06
+Django version 1.9c1, using settings 'joias.settings'
+Starting development server at http://localhost:8000/
+Quit the server with CONTROL-C.
+/usr/lib/python2.7/importlib/__init__.py:37: RemovedInDjango110Warning: django.core.context_processors is deprecated in favor of django.template.context_processors.
+  __import__(name)
+
+/usr/local/lib/python2.7/dist-packages/django/template/loader.py:97: RemovedInDjango110Warning: render() must be called with a dict, not a RequestContext.
+  return template.render(context, request)
+
+[15/Jun/2016 16:13:58] "GET /admin/ HTTP/1.1" 200 25981
+[15/Jun/2016 16:13:58] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[15/Jun/2016 16:13:58] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[15/Jun/2016 16:13:58] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[15/Jun/2016 16:13:58] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[15/Jun/2016 16:13:58] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[15/Jun/2016 16:13:58] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[15/Jun/2016 16:13:58] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 15, 2016 - 16:13:57
+Django version 1.9c1, using settings 'joias.settings'
+Starting development server at http://localhost:8000/
+Quit the server with CONTROL-C.
+/usr/lib/python2.7/importlib/__init__.py:37: RemovedInDjango110Warning: django.core.context_processors is deprecated in favor of django.template.context_processors.
+  __import__(name)
+
+/usr/local/lib/python2.7/dist-packages/django/template/loader.py:97: RemovedInDjango110Warning: render() must be called with a dict, not a RequestContext.
+  return template.render(context, request)
+
+[15/Jun/2016 16:14:35] "GET /admin/ HTTP/1.1" 200 24782
+[15/Jun/2016 16:14:35] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[15/Jun/2016 16:14:35] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[15/Jun/2016 16:14:35] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[15/Jun/2016 16:14:35] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[15/Jun/2016 16:14:35] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[15/Jun/2016 16:14:35] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[15/Jun/2016 16:14:35] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 15, 2016 - 16:14:30
+Django version 1.9c1, using settings 'joias.settings'
+Starting development server at http://localhost:8000/
+Quit the server with CONTROL-C.
+/usr/lib/python2.7/importlib/__init__.py:37: RemovedInDjango110Warning: django.core.context_processors is deprecated in favor of django.template.context_processors.
+  __import__(name)
+
+/usr/local/lib/python2.7/dist-packages/django/template/loader.py:97: RemovedInDjango110Warning: render() must be called with a dict, not a RequestContext.
+  return template.render(context, request)
+
+[15/Jun/2016 16:14:55] "GET /admin/ HTTP/1.1" 200 23624
+[15/Jun/2016 16:14:55] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[15/Jun/2016 16:14:55] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[15/Jun/2016 16:14:56] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[15/Jun/2016 16:14:56] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[15/Jun/2016 16:14:56] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[15/Jun/2016 16:14:56] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[15/Jun/2016 16:14:56] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[15/Jun/2016 16:15:44] "GET /admin/vendas/movimentacoesfinaneiras/ HTTP/1.1" 200 17313
+[15/Jun/2016 16:15:44] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[15/Jun/2016 16:15:54] "GET /admin/ HTTP/1.1" 200 23624
+[15/Jun/2016 16:16:24] "GET /admin/auth/group/ HTTP/1.1" 200 13282
+[15/Jun/2016 16:16:24] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[15/Jun/2016 16:16:35] "GET /admin/ HTTP/1.1" 200 23624
+[15/Jun/2016 16:16:49] "GET /admin/vendas/importacaoprodutos/ HTTP/1.1" 200 11620
+[15/Jun/2016 16:16:49] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[15/Jun/2016 16:16:52] "GET /admin/vendas/importacaoprodutos/add/ HTTP/1.1" 200 13110
+[15/Jun/2016 16:16:53] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[15/Jun/2016 16:16:55] "GET /admin/vendas/importacaoprodutos/ HTTP/1.1" 200 11620
+[15/Jun/2016 16:16:57] "GET /admin/ HTTP/1.1" 200 23624
+[15/Jun/2016 16:17:00] "GET /admin/vendas/movimentacoesfinaneiras/ HTTP/1.1" 200 17313
+[15/Jun/2016 16:17:00] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[15/Jun/2016 16:17:03] "GET /admin/ HTTP/1.1" 200 23624
+[15/Jun/2016 16:17:05] "GET /admin/vendas/pedidos/ HTTP/1.1" 200 13846
+[15/Jun/2016 16:17:06] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[15/Jun/2016 16:17:09] "GET /admin/ HTTP/1.1" 200 23624
+[15/Jun/2016 16:17:11] "GET /admin/vendas/referencias/ HTTP/1.1" 200 14637
+[15/Jun/2016 16:17:11] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[15/Jun/2016 16:17:14] "GET /admin/ HTTP/1.1" 200 23624
+/usr/lib/python2.7/importlib/__init__.py:37: RemovedInDjango110Warning: django.core.context_processors is deprecated in favor of django.template.context_processors.
+  __import__(name)
+
+/usr/local/lib/python2.7/dist-packages/django/template/loader.py:97: RemovedInDjango110Warning: render() must be called with a dict, not a RequestContext.
+  return template.render(context, request)
+
+[16/Jun/2016 15:38:18] "GET /admin/ HTTP/1.1" 200 23624
+Not Found: /favicon.ico
+[16/Jun/2016 15:38:20] "GET /favicon.ico HTTP/1.1" 404 1935
+Not Found: /
+[16/Jun/2016 15:38:56] "GET / HTTP/1.1" 200 1829
+[16/Jun/2016 15:39:03] "GET /admin/ HTTP/1.1" 200 23624
+[16/Jun/2016 15:42:24] "GET /admin/ HTTP/1.1" 200 23624
+Not Found: /favicon.ico
+[16/Jun/2016 15:42:25] "GET /favicon.ico HTTP/1.1" 404 1935
+[16/Jun/2016 15:42:42] "GET /admin/cadastro/fornecedores/ HTTP/1.1" 200 12848
+[16/Jun/2016 15:42:42] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[16/Jun/2016 15:42:42] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[16/Jun/2016 15:42:42] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[16/Jun/2016 15:42:42] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[16/Jun/2016 15:42:42] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[16/Jun/2016 15:42:42] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[16/Jun/2016 15:42:42] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[16/Jun/2016 15:42:42] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[16/Jun/2016 15:42:42] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[16/Jun/2016 15:42:42] "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 304 0
+[16/Jun/2016 15:42:47] "GET /admin/cadastro/fornecedores/add/ HTTP/1.1" 200 14679
+[16/Jun/2016 15:42:47] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[16/Jun/2016 15:42:47] "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[16/Jun/2016 15:42:47] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[16/Jun/2016 15:42:52] "GET /admin/cadastro/fornecedores/ HTTP/1.1" 200 12848
+[16/Jun/2016 15:42:54] "GET /admin/ HTTP/1.1" 200 23624
+[16/Jun/2016 15:42:58] "GET /admin/financeiro/ HTTP/1.1" 200 11037
+[16/Jun/2016 15:43:00] "GET /admin/financeiro/ HTTP/1.1" 200 11037
+[16/Jun/2016 15:43:03] "GET /admin/financeiro/contacorrente/ HTTP/1.1" 200 12890
+[16/Jun/2016 15:43:03] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[16/Jun/2016 15:43:13] "GET /admin/financeiro/ HTTP/1.1" 200 11037
+[16/Jun/2016 15:43:14] "GET /admin/ HTTP/1.1" 200 23624
+[16/Jun/2016 15:50:03] "GET /admin/vendas/produtos/ HTTP/1.1" 200 44880
+[16/Jun/2016 15:50:03] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[16/Jun/2016 15:50:08] "GET /admin/vendas/produtos/1050/change/ HTTP/1.1" 200 18190
+[16/Jun/2016 15:50:08] "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+[16/Jun/2016 15:50:08] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+[16/Jun/2016 15:50:08] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[16/Jun/2016 15:50:08] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+[16/Jun/2016 15:50:19] "GET /admin/vendas/produtos/ HTTP/1.1" 200 44880
+[16/Jun/2016 15:50:37] "GET /admin/ HTTP/1.1" 200 23624
+[16/Jun/2016 15:52:01] "GET /admin/vendas/movimentacoesfinaneiras/ HTTP/1.1" 200 17313
+[16/Jun/2016 15:52:01] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[16/Jun/2016 15:52:04] "GET /admin/vendas/movimentacoesfinaneiras/94/change/ HTTP/1.1" 200 18580
+[16/Jun/2016 15:52:04] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[16/Jun/2016 15:52:07] "GET /admin/vendas/movimentacoesfinaneiras/ HTTP/1.1" 200 17313
+[16/Jun/2016 15:52:09] "GET /admin/ HTTP/1.1" 200 23624
+[16/Jun/2016 15:52:42] "GET /admin/vendas/clientes/ HTTP/1.1" 200 13940
+[16/Jun/2016 15:52:42] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[16/Jun/2016 15:52:45] "GET /admin/ HTTP/1.1" 200 23624
+[16/Jun/2016 15:53:37] "GET /admin/ HTTP/1.1" 200 23624
+[16/Jun/2016 15:53:37] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[16/Jun/2016 15:53:37] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[16/Jun/2016 15:53:37] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[16/Jun/2016 15:53:37] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[16/Jun/2016 15:53:37] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[16/Jun/2016 15:53:37] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[16/Jun/2016 15:53:37] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[16/Jun/2016 15:53:38] "GET /admin/ HTTP/1.1" 200 23624
+[16/Jun/2016 15:53:38] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[16/Jun/2016 15:53:38] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[16/Jun/2016 15:53:38] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[16/Jun/2016 15:53:38] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[16/Jun/2016 15:53:38] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[16/Jun/2016 15:53:38] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[16/Jun/2016 15:53:38] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[16/Jun/2016 15:53:43] "GET /admin/ HTTP/1.1" 200 23624
+[16/Jun/2016 15:54:15] "GET /admin/ HTTP/1.1" 200 23624
+Traceback (most recent call last):
+  File "./manage.py", line 10, in <module>
+    execute_from_command_line(sys.argv)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 350, in execute_from_command_line
+    utility.execute()
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 342, in execute
+    self.fetch_command(subcommand).run_from_argv(self.argv)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 176, in fetch_command
+    commands = get_commands()
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/lru_cache.py", line 100, in wrapper
+    result = user_function(*args, **kwds)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 71, in get_commands
+    for app_config in reversed(list(apps.get_app_configs())):
+  File "/usr/local/lib/python2.7/dist-packages/django/apps/registry.py", line 137, in get_app_configs
+    self.check_apps_ready()
+  File "/usr/local/lib/python2.7/dist-packages/django/apps/registry.py", line 124, in check_apps_ready
+    raise AppRegistryNotReady("Apps aren't loaded yet.")
+django.core.exceptions.AppRegistryNotReady: Apps aren't loaded yet.
+[16/Jun/2016 15:54:45] "GET /admin/ HTTP/1.1" 200 23624
+Not Found: /favicon.ico
+[16/Jun/2016 15:54:45] "GET /favicon.ico HTTP/1.1" 404 1935
+[16/Jun/2016 15:54:52] "GET /admin/financeiro/contacorrente/ HTTP/1.1" 200 12890
+[16/Jun/2016 15:54:52] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[16/Jun/2016 15:54:55] "GET /admin/ HTTP/1.1" 200 23624
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 16, 2016 - 15:38:12
+Django version 1.9c1, using settings 'joias.settings'
+Starting development server at http://localhost:8000/
+Quit the server with CONTROL-C.
+/usr/lib/python2.7/importlib/__init__.py:37: RemovedInDjango110Warning: django.core.context_processors is deprecated in favor of django.template.context_processors.
+  __import__(name)
+
+/usr/local/lib/python2.7/dist-packages/django/template/loader.py:97: RemovedInDjango110Warning: render() must be called with a dict, not a RequestContext.
+  return template.render(context, request)
+
+[16/Jun/2016 15:55:45] "GET /admin/ HTTP/1.1" 200 20262
+[16/Jun/2016 15:55:45] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[16/Jun/2016 15:55:45] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[16/Jun/2016 15:55:45] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[16/Jun/2016 15:55:45] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[16/Jun/2016 15:55:45] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[16/Jun/2016 15:55:45] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[16/Jun/2016 15:55:45] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[16/Jun/2016 15:55:47] "GET /admin/ HTTP/1.1" 200 20262
+[16/Jun/2016 15:55:47] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[16/Jun/2016 15:55:47] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[16/Jun/2016 15:55:47] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[16/Jun/2016 15:55:47] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[16/Jun/2016 15:55:47] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[16/Jun/2016 15:55:47] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[16/Jun/2016 15:55:47] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[16/Jun/2016 15:55:48] "GET /admin/ HTTP/1.1" 200 20262
+[16/Jun/2016 15:55:48] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[16/Jun/2016 15:55:48] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[16/Jun/2016 15:55:48] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[16/Jun/2016 15:55:48] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[16/Jun/2016 15:55:48] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[16/Jun/2016 15:55:48] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[16/Jun/2016 15:55:48] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[16/Jun/2016 15:55:51] "GET /admin/auth/group/ HTTP/1.1" 200 13164
+[16/Jun/2016 15:55:51] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[16/Jun/2016 15:55:54] "GET /admin/ HTTP/1.1" 200 20262
+[16/Jun/2016 15:56:02] "GET /admin/vendas/clientes/ HTTP/1.1" 200 13822
+[16/Jun/2016 15:56:02] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[16/Jun/2016 15:56:05] "GET /admin/ HTTP/1.1" 200 20262
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 16, 2016 - 15:55:43
+Django version 1.9c1, using settings 'joias.settings'
+Starting development server at http://localhost:8000/
+Quit the server with CONTROL-C.
+/usr/lib/python2.7/importlib/__init__.py:37: RemovedInDjango110Warning: django.core.context_processors is deprecated in favor of django.template.context_processors.
+  __import__(name)
+
+/usr/local/lib/python2.7/dist-packages/django/template/loader.py:97: RemovedInDjango110Warning: render() must be called with a dict, not a RequestContext.
+  return template.render(context, request)
+
+[16/Jun/2016 16:00:28] "GET /admin/auth/user/ HTTP/1.1" 200 16721
+[16/Jun/2016 16:00:28] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[16/Jun/2016 16:00:28] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[16/Jun/2016 16:00:32] "GET /admin/auth/ HTTP/1.1" 200 12002
+[16/Jun/2016 16:00:36] "GET /admin/ HTTP/1.1" 200 20262
+[16/Jun/2016 16:00:49] "GET /admin/vendas/ HTTP/1.1" 200 17561
+/usr/lib/python2.7/importlib/__init__.py:37: RemovedInDjango110Warning: django.core.context_processors is deprecated in favor of django.template.context_processors.
+  __import__(name)
+
+/usr/local/lib/python2.7/dist-packages/django/template/loader.py:97: RemovedInDjango110Warning: render() must be called with a dict, not a RequestContext.
+  return template.render(context, request)
+
+[17/Jun/2016 00:18:07] "GET /admin/ HTTP/1.1" 200 20262
+Not Found: /favicon.ico
+[17/Jun/2016 00:18:09] "GET /favicon.ico HTTP/1.1" 404 1935
+Internal Server Error: /admin/password_change/
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 174, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 172, in get_response
+    response = response.render()
+  File "/usr/local/lib/python2.7/dist-packages/django/template/response.py", line 160, in render
+    self.content = self.rendered_content
+  File "/usr/local/lib/python2.7/dist-packages/django/template/response.py", line 135, in rendered_content
+    template = self._resolve_template(self.template_name)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/response.py", line 90, in _resolve_template
+    new_template = self.resolve_template(template)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/response.py", line 82, in resolve_template
+    return get_template(template, using=self.using)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/loader.py", line 32, in get_template
+    return engine.get_template(template_name, dirs)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/backends/django.py", line 40, in get_template
+    return Template(self.engine.get_template(template_name, dirs), self)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/engine.py", line 190, in get_template
+    template, origin = self.find_template(template_name, dirs)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/engine.py", line 157, in find_template
+    name, template_dirs=dirs, skip=skip,
+  File "/usr/local/lib/python2.7/dist-packages/django/template/loaders/base.py", line 46, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "/usr/local/lib/python2.7/dist-packages/django/template/base.py", line 189, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/usr/local/lib/python2.7/dist-packages/django/template/base.py", line 230, in compile_nodelist
+    return parser.parse()
+  File "/usr/local/lib/python2.7/dist-packages/django/template/base.py", line 514, in parse
+    raise self.error(token, e)
+TemplateSyntaxError: 'url' is not a valid tag or filter in tag library 'future'
+[17/Jun/2016 00:18:19] "GET /admin/password_change/ HTTP/1.1" 500 119070
+[17/Jun/2016 00:18:22] "GET /admin/ HTTP/1.1" 200 20262
+[17/Jun/2016 00:33:14] "GET /admin/ HTTP/1.1" 200 20262
+[17/Jun/2016 00:33:15] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:33:15] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[17/Jun/2016 00:33:15] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:33:15] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:33:15] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[17/Jun/2016 00:33:15] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[17/Jun/2016 00:33:15] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[17/Jun/2016 00:35:41] "GET /admin/ HTTP/1.1" 200 20262
+[17/Jun/2016 00:35:41] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[17/Jun/2016 00:35:41] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:35:41] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[17/Jun/2016 00:35:41] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[17/Jun/2016 00:35:41] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:35:41] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:35:41] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[17/Jun/2016 00:35:42] "GET /admin/ HTTP/1.1" 200 20262
+[17/Jun/2016 00:35:42] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:35:42] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[17/Jun/2016 00:35:42] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[17/Jun/2016 00:35:42] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:35:42] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:35:42] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[17/Jun/2016 00:35:42] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[17/Jun/2016 00:35:43] "GET /admin/ HTTP/1.1" 200 20262
+[17/Jun/2016 00:35:43] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[17/Jun/2016 00:35:43] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[17/Jun/2016 00:35:43] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[17/Jun/2016 00:35:43] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:35:43] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:35:43] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:35:43] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[17/Jun/2016 00:35:44] "GET /admin/ HTTP/1.1" 200 20262
+[17/Jun/2016 00:35:44] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[17/Jun/2016 00:35:44] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[17/Jun/2016 00:35:44] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[17/Jun/2016 00:35:44] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:35:44] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:35:44] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:35:44] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[17/Jun/2016 00:35:45] "GET /admin/ HTTP/1.1" 200 20262
+[17/Jun/2016 00:35:45] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[17/Jun/2016 00:35:45] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[17/Jun/2016 00:35:45] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[17/Jun/2016 00:35:45] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:35:45] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:35:45] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:35:45] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+Error: That port is already in use.
+[17/Jun/2016 00:36:32] "GET /admin/ HTTP/1.1" 200 20262
+[17/Jun/2016 00:36:32] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[17/Jun/2016 00:36:32] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[17/Jun/2016 00:36:32] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:36:32] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:36:32] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[17/Jun/2016 00:36:32] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:36:32] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[17/Jun/2016 00:36:36] "GET /admin/ HTTP/1.1" 200 20262
+[17/Jun/2016 00:36:36] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[17/Jun/2016 00:36:36] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[17/Jun/2016 00:36:36] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:36:36] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[17/Jun/2016 00:36:36] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:36:36] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:36:36] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+Internal Server Error: /admin/logout/
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 174, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 172, in get_response
+    response = response.render()
+  File "/usr/local/lib/python2.7/dist-packages/django/template/response.py", line 160, in render
+    self.content = self.rendered_content
+  File "/usr/local/lib/python2.7/dist-packages/django/template/response.py", line 135, in rendered_content
+    template = self._resolve_template(self.template_name)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/response.py", line 90, in _resolve_template
+    new_template = self.resolve_template(template)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/response.py", line 82, in resolve_template
+    return get_template(template, using=self.using)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/loader.py", line 32, in get_template
+    return engine.get_template(template_name, dirs)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/backends/django.py", line 40, in get_template
+    return Template(self.engine.get_template(template_name, dirs), self)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/engine.py", line 190, in get_template
+    template, origin = self.find_template(template_name, dirs)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/engine.py", line 157, in find_template
+    name, template_dirs=dirs, skip=skip,
+  File "/usr/local/lib/python2.7/dist-packages/django/template/loaders/base.py", line 46, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "/usr/local/lib/python2.7/dist-packages/django/template/base.py", line 189, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/usr/local/lib/python2.7/dist-packages/django/template/base.py", line 230, in compile_nodelist
+    return parser.parse()
+  File "/usr/local/lib/python2.7/dist-packages/django/template/base.py", line 514, in parse
+    raise self.error(token, e)
+TemplateSyntaxError: 'url' is not a valid tag or filter in tag library 'future'
+[17/Jun/2016 00:36:51] "GET /admin/logout/ HTTP/1.1" 500 107542
+Not Found: /admin
+[17/Jun/2016 00:37:09] "GET /admin HTTP/1.1" 301 0
+[17/Jun/2016 00:37:09] "GET /admin/ HTTP/1.1" 302 0
+[17/Jun/2016 00:37:09] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4330
+[17/Jun/2016 00:37:21] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[17/Jun/2016 00:37:21] "GET /admin/ HTTP/1.1" 200 20262
+[17/Jun/2016 00:42:21] "GET /admin/ HTTP/1.1" 200 20262
+[17/Jun/2016 00:42:21] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[17/Jun/2016 00:42:21] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:42:21] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:42:21] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:42:21] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[17/Jun/2016 00:42:21] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[17/Jun/2016 00:42:21] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[17/Jun/2016 00:42:22] "GET /admin/ HTTP/1.1" 200 20262
+[17/Jun/2016 00:42:22] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[17/Jun/2016 00:42:22] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[17/Jun/2016 00:42:22] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[17/Jun/2016 00:42:22] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:42:22] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:42:22] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:42:22] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[17/Jun/2016 00:42:23] "GET /admin/ HTTP/1.1" 200 20262
+[17/Jun/2016 00:42:23] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[17/Jun/2016 00:42:23] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[17/Jun/2016 00:42:23] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:42:23] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[17/Jun/2016 00:42:23] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:42:23] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:42:23] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[17/Jun/2016 00:44:49] "GET /admin/ HTTP/1.1" 200 20262
+[17/Jun/2016 00:44:49] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[17/Jun/2016 00:44:49] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:44:49] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[17/Jun/2016 00:44:49] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[17/Jun/2016 00:44:49] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:44:49] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:44:50] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[17/Jun/2016 00:44:50] "GET /admin/ HTTP/1.1" 200 20262
+[17/Jun/2016 00:44:50] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[17/Jun/2016 00:44:50] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[17/Jun/2016 00:44:50] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:44:50] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:44:50] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:44:50] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[17/Jun/2016 00:44:51] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+Error: That port is already in use.
+[17/Jun/2016 00:49:46] "GET /admin/ HTTP/1.1" 200 20262
+[17/Jun/2016 00:49:53] "GET /admin/ HTTP/1.1" 200 20262
+[17/Jun/2016 00:49:53] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[17/Jun/2016 00:49:53] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[17/Jun/2016 00:49:53] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[17/Jun/2016 00:49:53] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:49:53] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:49:53] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:49:53] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[17/Jun/2016 00:49:55] "GET /admin/ HTTP/1.1" 200 20262
+[17/Jun/2016 00:49:55] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[17/Jun/2016 00:49:55] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[17/Jun/2016 00:49:55] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[17/Jun/2016 00:49:55] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:49:55] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:49:55] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:49:55] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[17/Jun/2016 00:49:56] "GET /admin/ HTTP/1.1" 200 20262
+[17/Jun/2016 00:49:59] "GET /admin/ HTTP/1.1" 200 20262
+[17/Jun/2016 00:49:59] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[17/Jun/2016 00:49:59] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[17/Jun/2016 00:49:59] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[17/Jun/2016 00:49:59] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:49:59] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:49:59] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:49:59] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[17/Jun/2016 00:50:02] "GET /admin/ HTTP/1.1" 200 20262
+[17/Jun/2016 00:51:33] "GET /admin/ HTTP/1.1" 200 20262
+[17/Jun/2016 00:51:33] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:51:33] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[17/Jun/2016 00:51:33] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[17/Jun/2016 00:51:33] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:51:33] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[17/Jun/2016 00:51:33] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:51:33] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+[17/Jun/2016 00:51:34] "GET /admin/ HTTP/1.1" 200 20262
+[17/Jun/2016 00:51:34] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[17/Jun/2016 00:51:34] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[17/Jun/2016 00:51:34] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[17/Jun/2016 00:51:34] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:51:34] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:51:34] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[17/Jun/2016 00:51:34] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+Error: That port is already in use.
+Not Found: /admin
+[17/Jun/2016 00:52:01] "GET /admin HTTP/1.1" 301 0
+[17/Jun/2016 00:52:01] "GET /admin/ HTTP/1.1" 200 20262
+Not Found: /dev/vendas_django/vendas
+[17/Jun/2016 03:03:34] "OPTIONS /dev/vendas_django/vendas HTTP/1.1" 404 1978
+Not Found: /dev/vendas_django/vendas
+[17/Jun/2016 03:21:51] "OPTIONS /dev/vendas_django/vendas HTTP/1.1" 404 1978
+Not Found: /dev/vendas_django/vendas
+[17/Jun/2016 03:26:24] "OPTIONS /dev/vendas_django/vendas HTTP/1.1" 404 1978
+Not Found: /dev/vendas_django/vendas
+[17/Jun/2016 03:49:45] "OPTIONS /dev/vendas_django/vendas HTTP/1.1" 404 1978
+Not Found: /dev/vendas_django/vendas
+[17/Jun/2016 03:58:55] "OPTIONS /dev/vendas_django/vendas HTTP/1.1" 404 1978
+Not Found: /dev/vendas_django/vendas
+[17/Jun/2016 04:04:08] "OPTIONS /dev/vendas_django/vendas HTTP/1.1" 404 1978
+/usr/lib/python2.7/importlib/__init__.py:37: RemovedInDjango110Warning: django.core.context_processors is deprecated in favor of django.template.context_processors.
+  __import__(name)
+
+/usr/local/lib/python2.7/dist-packages/django/template/loader.py:97: RemovedInDjango110Warning: render() must be called with a dict, not a RequestContext.
+  return template.render(context, request)
+
+[19/Jun/2016 20:57:41] "GET /admin/ HTTP/1.1" 200 20262
+[19/Jun/2016 20:57:41] "GET /static/admin/js/jquery-migrate-1.2.1.min.js HTTP/1.1" 304 0
+[19/Jun/2016 20:57:41] "GET /static/admin/js/jquery-1.9.1.min.js HTTP/1.1" 304 0
+[19/Jun/2016 20:57:41] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 0
+[19/Jun/2016 20:57:41] "GET /static/admin/css/overrides.css HTTP/1.1" 304 0
+[19/Jun/2016 20:57:41] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+[19/Jun/2016 20:57:41] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[19/Jun/2016 20:57:41] "GET /static/bootstrap/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[19/Jun/2016 20:57:42] "GET /favicon.ico HTTP/1.1" 404 1935
+Internal Server Error: /admin/logout/
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 174, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 172, in get_response
+    response = response.render()
+  File "/usr/local/lib/python2.7/dist-packages/django/template/response.py", line 160, in render
+    self.content = self.rendered_content
+  File "/usr/local/lib/python2.7/dist-packages/django/template/response.py", line 135, in rendered_content
+    template = self._resolve_template(self.template_name)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/response.py", line 90, in _resolve_template
+    new_template = self.resolve_template(template)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/response.py", line 82, in resolve_template
+    return get_template(template, using=self.using)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/loader.py", line 32, in get_template
+    return engine.get_template(template_name, dirs)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/backends/django.py", line 40, in get_template
+    return Template(self.engine.get_template(template_name, dirs), self)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/engine.py", line 190, in get_template
+    template, origin = self.find_template(template_name, dirs)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/engine.py", line 157, in find_template
+    name, template_dirs=dirs, skip=skip,
+  File "/usr/local/lib/python2.7/dist-packages/django/template/loaders/base.py", line 46, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "/usr/local/lib/python2.7/dist-packages/django/template/base.py", line 189, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/usr/local/lib/python2.7/dist-packages/django/template/base.py", line 230, in compile_nodelist
+    return parser.parse()
+  File "/usr/local/lib/python2.7/dist-packages/django/template/base.py", line 514, in parse
+    raise self.error(token, e)
+TemplateSyntaxError: 'url' is not a valid tag or filter in tag library 'future'
+[19/Jun/2016 20:58:02] "GET /admin/logout/ HTTP/1.1" 500 107905
+[19/Jun/2016 20:58:05] "GET /admin/logout/ HTTP/1.1" 302 0
+[19/Jun/2016 20:58:05] "GET /admin/ HTTP/1.1" 302 0
+[19/Jun/2016 20:58:05] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4330
+[19/Jun/2016 20:58:14] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[19/Jun/2016 20:58:14] "GET /admin/ HTTP/1.1" 200 20262
+Internal Server Error: /admin/logout/
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 174, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 172, in get_response
+    response = response.render()
+  File "/usr/local/lib/python2.7/dist-packages/django/template/response.py", line 160, in render
+    self.content = self.rendered_content
+  File "/usr/local/lib/python2.7/dist-packages/django/template/response.py", line 135, in rendered_content
+    template = self._resolve_template(self.template_name)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/response.py", line 90, in _resolve_template
+    new_template = self.resolve_template(template)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/response.py", line 82, in resolve_template
+    return get_template(template, using=self.using)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/loader.py", line 32, in get_template
+    return engine.get_template(template_name, dirs)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/backends/django.py", line 40, in get_template
+    return Template(self.engine.get_template(template_name, dirs), self)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/engine.py", line 190, in get_template
+    template, origin = self.find_template(template_name, dirs)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/engine.py", line 157, in find_template
+    name, template_dirs=dirs, skip=skip,
+  File "/usr/local/lib/python2.7/dist-packages/django/template/loaders/base.py", line 46, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "/usr/local/lib/python2.7/dist-packages/django/template/base.py", line 189, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/usr/local/lib/python2.7/dist-packages/django/template/base.py", line 230, in compile_nodelist
+    return parser.parse()
+  File "/usr/local/lib/python2.7/dist-packages/django/template/base.py", line 514, in parse
+    raise self.error(token, e)
+TemplateSyntaxError: 'url' is not a valid tag or filter in tag library 'future'
+[19/Jun/2016 20:58:33] "GET /admin/logout/ HTTP/1.1" 500 107905
+[19/Jun/2016 20:58:37] "GET /admin/logout/ HTTP/1.1" 302 0
+[19/Jun/2016 20:58:37] "GET /admin/ HTTP/1.1" 302 0
+[19/Jun/2016 20:58:37] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4330
+[19/Jun/2016 20:58:44] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[19/Jun/2016 20:58:44] "GET /admin/ HTTP/1.1" 200 20262
+[19/Jun/2016 20:58:54] "GET /admin/vendas/clientes/ HTTP/1.1" 200 13822
+[19/Jun/2016 20:58:54] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[19/Jun/2016 20:58:54] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[19/Jun/2016 20:58:54] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[19/Jun/2016 20:58:54] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[19/Jun/2016 20:58:54] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[19/Jun/2016 20:58:54] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[19/Jun/2016 20:58:54] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[19/Jun/2016 20:58:54] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[19/Jun/2016 20:58:54] "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 304 0
+[19/Jun/2016 20:58:54] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[19/Jun/2016 20:59:00] "GET /admin/vendas/ HTTP/1.1" 200 17561
+[19/Jun/2016 20:59:02] "GET /admin/vendas/pedidos/ HTTP/1.1" 200 13728
+[19/Jun/2016 20:59:02] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[19/Jun/2016 20:59:05] "GET /admin/vendas/pedidos/43/change/ HTTP/1.1" 200 207159
+[19/Jun/2016 20:59:05] "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[19/Jun/2016 20:59:05] "GET /static/admin/js/inlines.js HTTP/1.1" 304 0
+[19/Jun/2016 20:59:05] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[19/Jun/2016 20:59:05] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[19/Jun/2016 20:59:11] "GET /admin/vendas/ HTTP/1.1" 200 17561
+[19/Jun/2016 20:59:14] "GET /admin/vendas/produtos/ HTTP/1.1" 200 44762
+[19/Jun/2016 20:59:14] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[19/Jun/2016 20:59:21] "GET /admin/vendas/produtos/1050/change/ HTTP/1.1" 200 18072
+[19/Jun/2016 20:59:21] "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+[19/Jun/2016 20:59:21] "GET /admin/jsi18n/ HTTP/1.1" 200 6909
+[19/Jun/2016 20:59:21] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+[19/Jun/2016 20:59:21] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+[19/Jun/2016 20:59:27] "GET /admin/vendas/produtos/ HTTP/1.1" 200 44762
+Not Found: /admin
+[19/Jun/2016 21:45:57] "GET /admin HTTP/1.1" 301 0
+[19/Jun/2016 21:45:57] "GET /admin/ HTTP/1.1" 200 20262
+Not Found: /favicon.ico
+[19/Jun/2016 21:45:58] "GET /favicon.ico HTTP/1.1" 404 1935
+Internal Server Error: /admin/logout/
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 174, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 172, in get_response
+    response = response.render()
+  File "/usr/local/lib/python2.7/dist-packages/django/template/response.py", line 160, in render
+    self.content = self.rendered_content
+  File "/usr/local/lib/python2.7/dist-packages/django/template/response.py", line 135, in rendered_content
+    template = self._resolve_template(self.template_name)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/response.py", line 90, in _resolve_template
+    new_template = self.resolve_template(template)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/response.py", line 82, in resolve_template
+    return get_template(template, using=self.using)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/loader.py", line 32, in get_template
+    return engine.get_template(template_name, dirs)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/backends/django.py", line 40, in get_template
+    return Template(self.engine.get_template(template_name, dirs), self)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/engine.py", line 190, in get_template
+    template, origin = self.find_template(template_name, dirs)
+  File "/usr/local/lib/python2.7/dist-packages/django/template/engine.py", line 157, in find_template
+    name, template_dirs=dirs, skip=skip,
+  File "/usr/local/lib/python2.7/dist-packages/django/template/loaders/base.py", line 46, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "/usr/local/lib/python2.7/dist-packages/django/template/base.py", line 189, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/usr/local/lib/python2.7/dist-packages/django/template/base.py", line 230, in compile_nodelist
+    return parser.parse()
+  File "/usr/local/lib/python2.7/dist-packages/django/template/base.py", line 514, in parse
+    raise self.error(token, e)
+TemplateSyntaxError: 'url' is not a valid tag or filter in tag library 'future'
+[19/Jun/2016 21:46:06] "GET /admin/logout/ HTTP/1.1" 500 107892
+[19/Jun/2016 21:46:14] "GET /admin/logout/ HTTP/1.1" 302 0
+[19/Jun/2016 21:46:14] "GET /admin/ HTTP/1.1" 302 0
+[19/Jun/2016 21:46:14] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4330
